@@ -2,7 +2,7 @@
 
 Secure multi-service platform for protecting, validating, and selectively sharing transaction documents across organizations in a zero-trust supply-chain setting.
 
-Developed in the context of the Network and Computer Security course at Instituto Superior Tecnico, this project combines applied cryptography, backend services, PKI, TLS, and segmented infrastructure.
+Developed by a group of 3 students in the context of the Network and Computer Security course at Instituto Superior Tecnico, this project combines applied cryptography, backend services, PKI, TLS, and segmented infrastructure.
 
 ## Overview
 
