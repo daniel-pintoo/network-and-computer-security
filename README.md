@@ -70,24 +70,6 @@ The group-sharing extension adds:
 - VirtualBox
 - Linux / UFW
 
-## Repository Structure
-
-```text
-.
-|-- api/
-|-- certificate_authority/
-|-- group-server/
-|-- secure_storage/
-|-- src/pt/tecnico/secure/
-|-- FIREWALL_TLS_SETUP.md
-|-- REPORT.md
-|-- USAGE.md
-|-- creating-vms.md
-|-- generate-client-keys.sh
-|-- pom.xml
-`-- requirements.txt
-```
-
 ## Running The Project
 
 This repository is designed for a multi-VM demonstration environment. The full setup requires multiple Kali Linux machines and network segmentation.
